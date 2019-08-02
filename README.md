@@ -1,4 +1,10 @@
 # Word-Guess-Game
+
+## Purpose?
+Create a game where the user guesses the word by letters. It counts the amount of times you have guessed alonged with the right/wrong guesses.
+
+
+### Project Goals:
 1.) create a list of words to guess 
 2.) somehow find a way to loop the words and randomize the words
 3.) make an array with the number of letters in the word and list out spaces to the user
